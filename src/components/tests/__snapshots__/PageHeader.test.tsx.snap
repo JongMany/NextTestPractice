@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PageHeader/> renders component correctly snapshot 1`] = `
+<div
+  className="sc-fa2a6099-0 fIvrUc"
+>
+  <h1
+    className="sc-fa2a6099-1 jecMvq"
+  >
+    할 일 목록
+  </h1>
+</div>
+`;
+
+exports[`<PageHeader/> renders component correctly snapshot when pathname is '/add' 1`] = `
+<div
+  className="sc-fa2a6099-0 fIvrUc"
+>
+  <h1
+    className="sc-fa2a6099-1 jecMvq"
+  >
+    할 일 추가
+  </h1>
+  <a
+    className="sc-70ce8365-0 jqGvbP"
+    href="/"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onTouchStart={[Function]}
+  >
+    돌아가기
+  </a>
+</div>
+`;
